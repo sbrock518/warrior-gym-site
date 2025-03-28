@@ -51,7 +51,7 @@ body {
 
 /* Hero Section */
 .hero {
-  background: url('/assets/images/gggg.webp');
+  background: url('assets/images/gggg.webp');
   height: 300px;
   display: flex;
   justify-content: center;
@@ -96,7 +96,7 @@ body {
 
 /* About Section */
 .about {
-  background: url('/assets/images/gggg.webp');
+  background: url('assets/images/gggg.webp');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -110,7 +110,7 @@ body {
 .classes {
   padding: 2rem 0;
   text-align: center;
-  background: url('/assets/images/bag.webp');
+  background: url('assets/images/bag.webp');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -144,7 +144,7 @@ body {
 /* Schedule Section */
 .schedule {
   padding: 2rem 0;
-  background: url('/assets/images/gray 2.jpg');
+  background: url('assets/images/gray 2.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -173,7 +173,7 @@ body {
 
 /* Contact Section */
 .contact {
-  background: url('/assets/images/gray 2.jpg');
+  background: url('assets/images/gray 2.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
